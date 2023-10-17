@@ -1,2 +1,5 @@
 datasets
 pandas
+lightning
+torchmetrics
+torch
